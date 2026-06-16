@@ -6,6 +6,8 @@
 #define SS_PIN 5      
 #define RST_PIN 22    
 #define buz 13
+#define gled 27 
+#define rled 26
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);
 TFT_eSPI tft = TFT_eSPI(); 
@@ -25,11 +27,14 @@ void drawStandbyScreen() {
   tft.println("Please scan your ID card...");
 }
 
+
+
 void setup() {
   Serial.begin(9600);
   SPI.begin();
   pinMode(buz,OUTPUT);
-
+  pinMode(gled,OUTPUT);
+  pinMode(rled,OUTPUT);
   // 1. Initialize the TFT Screen
   tft.init();
   tft.setRotation(1); // 1 = Landscape
@@ -45,17 +50,21 @@ void setup() {
 
 void yes(){
     digitalWrite(buz,HIGH);
+    digitalWrite(gled,HIGH);
     delay(200);
     digitalWrite(buz,LOW);
     delay(100);
     digitalWrite(buz,HIGH);
     delay(200);
     digitalWrite(buz,LOW);
+    digitalWrite(gled,LOW);
 }
 void no(){
     digitalWrite(buz,HIGH);
+    digitalWrite(rled,HIGH);
     delay(700);  
     digitalWrite(buz,LOW);
+    digitalWrite(rled,LOW);
 }
 
 void loop() {
@@ -122,5 +131,4 @@ void loop() {
 
   // Tell the RFID reader to stop reading this specific card to prevent spamming
   mfrc522.PICC_HaltA();
-}
-
+}//grey, purple white grey2 black green brown, red brown
