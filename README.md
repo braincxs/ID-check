@@ -6,3 +6,6 @@ the cardnamer file is where user can put a name into the their card'id. This fil
 
 the cardid file is where users can key in their info, into an excel file. the excel file will say name, and time.
 
+I will combine them all of them in the future.
+
+16/6 - 12.01p.m.
