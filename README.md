@@ -9,3 +9,5 @@ the cardid file is where users can key in their info, into an excel file. the ex
 I will combine them all of them in the future.
 
 16/6 - 12.01p.m.
+
+Done with the cuircuit design
