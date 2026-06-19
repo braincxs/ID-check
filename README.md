@@ -1,13 +1,43 @@
-This is the code for my id check, I use an ESP32, RFID-RC522, and a 3.5" TFT SPI  480 X 320 V1.0 and a buzzer.
+# 🛠️ [ID CHECK]
+to check id and to record those id
+---
 
-the main file is the file for my secruity check, where user's have to provide the correct id so that it will say access granted in the TFT SPI screen, if you use the wrong id, it will say deny and print out your current id in the TFT SPI screen and it will redirect you to the original screen.
+## 🔗 Project Links
+* **Video Demo:** https://www.youtube.com/watch?v=-svoGMkCblA
+* **the excel file:** https://docs.google.com/spreadsheets/d/12JXY7RjvgY2Zw0kpSRs3cqpdkiOFfciyogjagmTJXEo/edit?gid=0#gid=0
 
-the cardnamer file is where user can put a name into the their card'id. This file is to just configure their id's name. This only use a card scanner and a esp32 only.
+---
 
-the cardid file is where users can key in their info, into an excel file. the excel file will say name, and time.
+## 📦 Bill of Materials (BOM)
+List all the physical components you used:
+* **Microcontroller:** ESP 32
+* **Sensors/Inputs:** ID Scanner, Buzzer
+* **Outputs/Displays:** TFT SPI Screen
+* **Other:** Breadboard, Jumper wires
 
-I will combine them all of them in the future.
+---
 
-16/6 - 12.01p.m.
+## 🔌 Wiring Diagram & Pinouts
+Check it out at the screenshot of the this github page
+---
 
-Done with the cuircuit design
+## 💾 Software & Libraries Required
+Before uploading the code, make sure you install these libraries in the Arduino IDE / PlatformIO:
+* [MFRC522]
+* [TFT_eSPI]
+
+---
+
+## 🚧 Project Status: Work in Progress
+  
+
+### ✅ What Works
+* [ ] Reading IDs through the scanner.
+* [ ] Displaying UI text on the TFT SPI screen.
+* [ ] The excel file works
+
+### ⏳ Future Upgrades
+* [ ] Combining all the files to main to make it easier for people to use
+* [ ] Adding a voice password to make it more secure (If funds are approved)
+* [ ] adding a finger print scanner to make it more secure (If funds are approved)
+* [ ] adding a camera to make it more secure (If funds are approved)
