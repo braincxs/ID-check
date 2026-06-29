@@ -29,3 +29,8 @@ What I plan to do:
 - Adding a voice password to make it more secure (If funds are approved)
 - adding a finger print scanner to make it more secure (If funds are approved)
 - adding a camera to make it more secure (If funds are approved)
+
+The wiring diagram 
+<img width="1207" height="756" alt="image" src="https://github.com/user-attachments/assets/50b2fc9f-8e5b-4c15-b9f6-c619a677a886" />
+<img width="1162" height="571" alt="image" src="https://github.com/user-attachments/assets/eb96b1d2-a851-430b-8232-4cc7a63d8566" />
+<img width="1300" height="480" alt="image" src="https://github.com/user-attachments/assets/e88f1b47-38a4-4313-91c3-895b91901860" />
