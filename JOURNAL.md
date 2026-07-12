@@ -21,5 +21,4 @@ I spent about 2 hours just combining the 2 codes and I add a button which makes 
 
 # 12/7
 created this JOURNAL.md and planning to update the project's youtube video and github info but now project doesn't work. I will add picture for futher dates
-
 I fixed the problem, the wiring was wrong and a replace the buzzer and led or the project
