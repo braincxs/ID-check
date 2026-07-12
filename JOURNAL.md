@@ -16,7 +16,9 @@ I used 2 bread boards. One is to connect the esp 32 to my spi tft screen and one
 
 16/6
 I spent about 2 hours just combining the 2 codes and I add a button which makes my setup to one and I added a button to make 2 modes. 
+
 Mode 1: Name the card
+
 Mode2: Check their id to see if their id is correct and then put their name, time and date they scan the card into the excel file.
 
 
