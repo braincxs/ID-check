@@ -20,4 +20,4 @@ I spent about 2 hours just combining the 2 codes and I add a button which makes 
 * Mode2: Check their id to see if their id is correct and then put their name, time and date they scan the card into the excel file.
 
 # 12/7
-created this JOURNAL.md and planning to update the project's youtube video and github info but now project doesn't work
+created this JOURNAL.md and planning to update the project's youtube video and github info but now project doesn't work. I will add picture for futher dates
