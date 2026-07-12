@@ -22,5 +22,6 @@ I spent about 2 hours just combining the 2 codes and I add a button which makes 
 # 12/7
 created this JOURNAL.md and planning and github info but now project doesn't work. I will add picture for futher dates
 I fixed the problem, the wiring was wrong and a replace the buzzer and led or the project
+
 <img width="320" height="240" alt="WhatsApp Image 2026-07-12 at 7 54 54 PM" src="https://github.com/user-attachments/assets/0c247cce-f4fe-448c-a488-c194c86b72a8" />
 <img width="240" height="320" alt="WhatsApp Image 2026-07-12 at 7 54 56 PM" src="https://github.com/user-attachments/assets/87b24504-2226-4b5d-949a-a0b01f8cfa79" />
