@@ -18,3 +18,7 @@ I spent about 2 hours just combining the 2 codes and I add a button which makes 
 
 # 16/6
 created a youtube video about the project and complete the github things
+
+
+# 12/7
+created this JOURNAL.md and planning to update the project and now project doesn't work
