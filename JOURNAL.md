@@ -20,5 +20,7 @@ I spent about 2 hours just combining the 2 codes and I add a button which makes 
 * Mode2: Check their id to see if their id is correct and then put their name, time and date they scan the card into the excel file.
 
 # 12/7
-created this JOURNAL.md and planning to update the project's youtube video and github info but now project doesn't work. I will add picture for futher dates
+created this JOURNAL.md and planning and github info but now project doesn't work. I will add picture for futher dates
 I fixed the problem, the wiring was wrong and a replace the buzzer and led or the project
+<img width="1280" height="960" alt="WhatsApp Image 2026-07-12 at 7 54 54 PM" src="https://github.com/user-attachments/assets/0c247cce-f4fe-448c-a488-c194c86b72a8" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-07-12 at 7 54 56 PM" src="https://github.com/user-attachments/assets/87b24504-2226-4b5d-949a-a0b01f8cfa79" />
